@@ -12,7 +12,7 @@ Currently a data science student, focused on the acquisition and improvement of 
 
 My greatest motivation in personal and professional development is continuous improvement. 
 
-#### "No matter how slowly you go so long as you do not stop"
+##### "No matter how slowly you go so long as you do not stop"
 
 
 
