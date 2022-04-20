@@ -1,32 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to my Blog
 
-You can use the [editor on GitHub](https://github.com/riberagorka/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here I will post everything that I am learning on the area of Machine Learning and Artificial Intelligence. Hope you enjoy it!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+First of all, I'm going to introduce myself.
 
-### Markdown
+My name is Gorka Ribera. Curiosity has haunted me for as long as I have sense of consciousness. Although since childhood we are made to believe that we have to choose a path and cling to it, I firmly believe that knowing different fields and skills enriches us and makes us better people, being able to see things from different perspectives.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Entrepreneurial and proactive personality, lover of challenges, wanting to improve people's lives. All this led me to create my own company at the age of 22, which offered me a first-person view of issues related to business strategy and coordination.
 
-```markdown
-Syntax highlighted code block
+Currently a data science student, focused on the acquisition and improvement of my technical skills related to the areas of machine learning and artificial intelligence. 
 
-# Header 1
-## Header 2
-### Header 3
+My greatest motivation in personal and professional development is continuous improvement. 
 
-- Bulleted
-- List
+#### "No matter how slowly you go so long as you do not stop"
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
